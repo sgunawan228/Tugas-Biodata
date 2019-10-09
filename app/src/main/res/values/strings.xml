@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="nim">A11.2017.10278</string>
+    <string name="full_name">Syahrul Gunawan</string>
+    <string name="numberphone">+62 8968 8809 038</string>
+    <string name="email">sgunawan228@gmail.com</string>
+    <string name="gotomail">Email Saya</string>
+    <string name="hobby">Jalan Jalan, Mendaki</string>
+    <string name="gotomaps">Alamat Saya</string>
+    <string name="gotocall">Telepon Saya</string>
+    <string name="description">Saya Asli Pekalongan</string>
+    <string name="address">Degayu, Kec. Pekalongan Utara, Kota Pekalongan, Jawa Tengah 51148</string>
+    <string name="copyright_build">Pemrograman Perangkat Bergerak</string>
+</resources>
