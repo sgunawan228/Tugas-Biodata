@@ -405,6 +405,7 @@ color colorAccent
 color colorHitam
 color colorPrimary
 color colorPrimaryDark
+color colorjudul
 color dim_foreground_disabled_material_dark
 color dim_foreground_disabled_material_light
 color dim_foreground_material_dark
